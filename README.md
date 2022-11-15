@@ -1,2 +1,1 @@
-# learnqa_autotests_api_python
-LearnQA API autotests with Python
+# LearnQA API autotests with Python
